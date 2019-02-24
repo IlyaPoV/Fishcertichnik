@@ -1,0 +1,14 @@
+@font-face {
+	font-family:UniSans;
+	src:url(uni_sans_heavy.woff);
+
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family:UniSans;
+	src:url(uni_sans_thin.woff);
+
+	font-weight: thin;
+	font-style: normal;
+}
