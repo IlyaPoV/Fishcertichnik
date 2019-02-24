@@ -9,6 +9,9 @@ ul, li {
   width: 1080px;
   margin: 0 auto; }
 
+.slider-img {
+  display: none; }
+
 .block-headline {
   font-size: 42px;
   line-height: 48px;
@@ -107,6 +110,13 @@ ul, li {
   display: -ms-flex;
   display: flex;
   justify-content: space-between; }
+
+img {
+  width: 100%;
+  overflow: hidden; }
+
+.dis-block {
+  display: block; }
 
 .header-phone {
   font-size: 32px;
